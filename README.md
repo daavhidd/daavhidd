@@ -9,7 +9,7 @@ I'm a frontend developer passionate about building interactive, user-friendly we
 
 ### 🌍 Let's Connect
 - [Portfolio Website](davidnwokeabia.nelify.app)
-- [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/david-nwokeabia-20b6452ab))
+- [LinkedIn](https://www.linkedin.com/in/david-nwokeabia-20b6452ab)
 - [Email Me](mailto:davidnwokeabia@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daavhidd&show_icons=true)
