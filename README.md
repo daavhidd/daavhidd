@@ -8,7 +8,7 @@ I'm a frontend developer passionate about building interactive, user-friendly we
 - 🚀 Project Deployment (Netlify, GitHub Pages)
 
 ### 🌍 Let's Connect
-- [Portfolio Website](davidnwokeabia.nelify.app)
+- [Portfolio Website](https://davidnwokeabia.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/david-nwokeabia-20b6452ab)
 - [Email Me](mailto:davidnwokeabia@gmail.com)
 
