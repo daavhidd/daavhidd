@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm David.
+# Hi there! 👋
 
 I'm a developer passionate about building interactive, user-friendly web applications and websites. With experience in React, Next.js, Tailwind CSS, etc, I love bringing ideas to life on the web.
 
