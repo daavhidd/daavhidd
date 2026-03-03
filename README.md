@@ -1,18 +1,16 @@
 # Hi there! 👋 I'm David.
 
-I'm a frontend developer passionate about building interactive, user-friendly web applications and websites. With experience in React, Next.js, Tailwind CSS, etc, I love bringing ideas to life on the web.
+I'm a developer passionate about building interactive, user-friendly web applications and websites. With experience in React, Next.js, Tailwind CSS, etc, I love bringing ideas to life on the web.
 
-### 👨‍💻 What I Do
-- 🔥 React, JavaScript, Next, HTML, CSS, Tailwind CSS, Bootstrap
-- 🎨 API Integration, UI/UX Design, Version Control(Git)
-- 🚀 Project Deployment (Netlify, GitHub Pages)
 
-### 🌍 Let's Connect
+- React, JavaScript, Next, HTML, CSS, Tailwind CSS, Bootstrap
+- API Integration, UI/UX Design, Version Control(Git)
+- Project Deployment (Netlify, GitHub Pages)
+
 - [Portfolio Website](https://davidnwokeabia.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/david-nwokeabia-20b6452ab)
 - [Email Me](mailto:davidnwokeabia@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daavhidd&show_icons=true)
 
 
 <!--
